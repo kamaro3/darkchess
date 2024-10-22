@@ -63,7 +63,7 @@ public class Board {
 
             for (int x = 0; x < Board.BOARD_SIZE; x++) {
                 String pieceStr = line.substring(x, x+1);
-                if (pieceStr.equals(" ")) {
+                if ("".equals(variable)) {
                     continue;
                 } else {
                     try {
