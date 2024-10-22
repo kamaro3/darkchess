@@ -22,7 +22,6 @@
 	<sonar.organization>kamaro3</sonar.organization>
  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>	  
   </properties>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
